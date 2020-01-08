@@ -51,6 +51,11 @@ Below is an example of the expected format of the JSON output from the checklist
 ```
 You can validate your own output to ensure it is correct by using a website like https://www.jsonschemavalidator.net/ and the supplied [JSON Schema](https://github.com/shepper-tech/shepper-frontend-test/blob/master/request_validation_schema.json) which should highlight any structure or type issues.
 
+## :eyes: Pointers
+We're most interested in the architectural approach taken and patterns used, hence the loosely defined scope of the challenge. While the task only outlines two question types, theoretically more might be added in the future so we're keen to see a solution which factors this in and would easily scale without affecting maintainability.
+
+We're also keen to see you demonstrate a good understanding of UI/UX, however the technical approach should be your primary focus so please feel free to use any UI libraries or CSS frameworks you're familiar with.
+
 ## :postbox: Submission
 Feel free to either clone this repository or create your own private GitHub repository and when you're happy with your work just add me ([@nickma42](https://github.com/nickma42)) as a contributor.
 
